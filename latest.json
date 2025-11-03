@@ -1,0 +1,6 @@
+{
+  "version": "1.0.0",
+  "base_from": "1.0.0",
+  "patches": [],
+  "mandatory": false
+}

@@ -1,6 +1,16 @@
 {
-  "version": "1.0.0",
-  "base_from": "1.0.0",
-  "patches": [],
-  "mandatory": false
+  "Version": "1.0.0",
+  "BaseFrom": "0.0.0",
+  "PatchArchives": [
+    {
+      "ArchiveName": null,
+      "Url": "./",
+      "Size": 0,
+      "Sha256": null,
+      "Files": []
+    }
+  ],
+  "AddFiles": [],
+  "RemoveFiles": [],
+  "Mandatory": false
 }

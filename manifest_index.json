@@ -19,6 +19,11 @@
       "Version": "1.0.3",
       "BaseFrom": "1.0.2",
       "Url": "https://github.com/Project-test2022/Update_Quinbaolinh/releases/download/v1.0.3/latest.json"
+    },
+    {
+      "Version": "1.0.4",
+      "BaseFrom": "1.0.3",
+      "Url": "https://github.com/Project-test2022/Update_Quinbaolinh/releases/download/v1.0.4/latest.json"
     }
   ]
 }
